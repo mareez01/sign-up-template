@@ -14,7 +14,3 @@ It provides basic styling for the sign-up form, including font-family, backgroun
 How to Use
 To use this sign-up form in your own project, you can simply copy and paste the HTML and CSS code into your own files. 
 You can also modify the code to fit your specific needs, such as changing the colors or adding additional fields.
-
-Credits
-This sign-up form was created by [Your Name Here]. 
-It includes the use of the Google font "Nanum Gothic" and the Bootstrap Icons library for the social media icons.
